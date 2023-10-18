@@ -1,0 +1,6 @@
+C:\Users\Lucas\Coding\Prog 3\CarritoDeCompras\carrito-de-compras\Data\bin\Debug\Data.dll
+C:\Users\Lucas\Coding\Prog 3\CarritoDeCompras\carrito-de-compras\Data\bin\Debug\Data.pdb
+C:\Users\Lucas\Coding\Prog 3\CarritoDeCompras\carrito-de-compras\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Lucas\Coding\Prog 3\CarritoDeCompras\carrito-de-compras\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Coding\Prog 3\CarritoDeCompras\carrito-de-compras\Data\obj\Debug\Data.dll
+C:\Users\Lucas\Coding\Prog 3\CarritoDeCompras\carrito-de-compras\Data\obj\Debug\Data.pdb
